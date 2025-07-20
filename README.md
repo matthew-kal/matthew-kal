@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
+<img src="./img/fan-1.gif" alt="Fan" align="center">
+</div>
 
-<!--
-**matthew-kal/matthew-kal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="./img/welcome-fire.gif" alt="Welcome" align="center">
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+to the Hall of Fame
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">
+<a href="https://matthewkal-com.vercel.app">Visit my website (or don't idrc💔)
+<img src="./img/website.gif" alt="Visit homepage" align="center">
+</a>
+</h3>
